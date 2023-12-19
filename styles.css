@@ -1,0 +1,14 @@
+/* styles */
+
+.h1 {
+    font-size: 48px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background: yellow;
+}
+
+.list {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 24px;
+    background: black;
+    color: white;
+}
